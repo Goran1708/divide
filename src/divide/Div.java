@@ -17,5 +17,6 @@ public class Div {
 		Divide d = new Divide();
 		System.out.println(d.Dividenum(10, 5));
 		System.out.println(d.Dividenum(15, 5));
+		System.out.println(d.Dividenum(1000, 20));
 	}
 }
